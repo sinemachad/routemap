@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
+coverage/
+.next/
+dist/
+build/
+out/
+.cache/
+Desktop.ini
+.env.local
+*.js.map
